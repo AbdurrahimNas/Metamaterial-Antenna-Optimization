@@ -1,5 +1,5 @@
 # Metamaterial-Antennas
-Metamaterial Antenna Optimization 
+Metamaterial Antenna Optimization by predicting Return Loss (S11) of the antenna, power radiated by antenna and power accepted by antenna.
 
 
 ## How To Use:
